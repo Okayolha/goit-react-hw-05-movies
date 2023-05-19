@@ -1,0 +1,13 @@
+.cast__list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.cast__item {
+  display: flex;
+  gap: 24px;
+}
+.cast__img {
+  width: 80px;
+  border-radius: 4px;
+}
